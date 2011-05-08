@@ -1,0 +1,3 @@
+[alias]
+  sa = submodule add
+  su = submodule update
