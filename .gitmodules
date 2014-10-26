@@ -13,12 +13,12 @@
 [submodule "bundle/cucumber"]
 	path = bundle/cucumber
 	url = git://github.com/tpope/vim-cucumber.git
-[submodule "bundle/rspec"]
-	path = bundle/rspec
-	url = git://github.com/taq/vim-rspec.git
 [submodule "bundle/surround"]
 	path = bundle/surround
 	url = git://github.com/tpope/vim-surround.git
 [submodule "bundle/repeat"]
 	path = bundle/repeat
 	url = git://github.com/tpope/vim-repeat.git
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
